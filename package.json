@@ -1,0 +1,15 @@
+{
+  "name": "delta-multiholding-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static company website for Delta Multiholding Solution Limited — civil, building works and general supply.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "PORT=3000 node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
