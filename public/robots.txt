@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://website-production-7c6e.up.railway.app/sitemap.xml
