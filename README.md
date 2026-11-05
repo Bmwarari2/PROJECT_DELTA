@@ -18,7 +18,8 @@ Static marketing site for **Delta Multiholding Solution Limited**, a civil and b
 public/            static site (HTML, CSS, JS, images)
   assets/css/      styles.css: design tokens, layout, animations
   assets/js/       main.js: scroll effects, menu, carousel, lightbox, form
-  assets/img/      photos (WebP), icon sprite, favicon, social image
+  assets/img/      company project photos (WebP), icon sprite, favicon, social image
+  assets/img/stock/  licensed stock photos (see CREDITS.md)
 server.js          zero-dependency Node static server
 railway.json       Railway build/deploy settings
 ```
